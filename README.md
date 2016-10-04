@@ -1,9 +1,10 @@
 # plivo-perl
 
-* **Overview**  
+**Overview**  
 A sample Perl app to send SMS using the Plivo API
 
-* **Installation**
+**Installation**
+
 This projects uses cpanminus to manage dependencies. To install cpanminus, run:
 ```
 curl -L https://cpanmin.us | perl - App::cpanminus
